@@ -1,0 +1,11 @@
+1)
+gitignore is the file which contains ignore rules which have to be shared through
+the repository.
+2)
+Fast-forward is done by git when a merge is done against a branch which is ahead of the one 
+you have checked out
+3)
+we should have different branches so that many people can work at the same time
+on the same project
+4)
+As many as we want
